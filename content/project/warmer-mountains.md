@@ -38,7 +38,7 @@ By **combining the field experiment with mathematical models** of metacommunity 
 
 We moved alpine turfs downslope along an elevational gradient in the eastern Swiss Alps to impose increasing degrees of climate warming, similar to what these plant communities will experience in the following 100 years of climate change.
 
-[Watch](https://www.youtube.com/watch?v=-aKZhiICIRY) a Swiss News report about the experiment. 
+Below you can watch a Swiss News report about the experiment. 
 
 <!-- blank line -->
 <figure class="video_container">
